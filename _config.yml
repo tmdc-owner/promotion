@@ -23,9 +23,9 @@ title: Toronto Multiplex Development Co-op (TMDC)
 description: >- # this means to ignore newlines until "baseurl:"
   Together, we can build a housing future rooted in dignity, democracy, and real
   affordability.
-baseurl: "/co-ops" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: jrootham
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "toronotmultiplxcoops.ca" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: tmdc-owner
 
 # Build settings
 # theme: minima
