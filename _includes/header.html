@@ -1,0 +1,36 @@
+<header class="container">
+  <nav>
+    <ul>
+      <li><a href="{{ '/' | relative_url }}">{{ site.title | escape }}</a></li>
+    </ul>
+    <ul>
+      <li><a href="{{'posts' | relative_url }}">Updates</a></li>
+      <li>
+        <details class="dropdown">
+          <summary>Initiative</summary>
+          <ul dir="rtl">
+            <li><a href="{{'initiative/' | relative_url }}">Intro</a></li>
+            <li><a href="{{'initiative/how-it-works' | relative_url }}">How it Works</a></li>
+            <li><a href="{{'initiative/financing' | relative_url }}">Financing</a></li>
+            <li><a href="{{'initiative/partners' | relative_url }}">Partners</a></li>
+            <li><a href="{{'initiative/impacts' | relative_url }}">Impacts</a></li>
+            <li><a href="{{'initiative/implementation' | relative_url }}">Implementation</a></li>
+            <!-- <li><a href="{{'/membership/membership-overview' | relative_url }}">Membership</a></li>
+            <li><a href="{{'/construction/building-overview' | relative_url }}">Multiplexes</a></li> -->
+          </ul>
+        </details>
+      </li>
+
+      <li>
+        <details class="dropdown">
+          <summary role="button" class="secondary">T</summary>
+          <ul>
+            <li><a href="#" data-theme-switcher="auto">Auto</a></li>
+            <li><a href="#" data-theme-switcher="light">Light</a></li>
+            <li><a href="#" data-theme-switcher="dark">Dark</a></li>
+          </ul>
+        </details>
+      </li>
+    </ul>
+  </nav>
+</header>
