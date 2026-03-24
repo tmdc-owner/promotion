@@ -2,6 +2,8 @@
 layout: simple-page
 ---
 
+Basic pitch
+
 What if your landlord wasn't looking for profit? What if you and your neighbours were in complete control? What if you couldn't be renovicted or surprised by a rent increase? What if you could have a permanent reliable home without paying Toronto real estate prices?
 
 We have an opportunity to do something new, that was illegal for 60 years. We're going to create potentially endless amounts of ideal housing, homes that will raise our quality of life.
